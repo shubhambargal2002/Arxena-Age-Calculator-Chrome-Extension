@@ -1,0 +1,15 @@
+body {
+    width: 200px;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  select {
+    margin-bottom: 10px;
+  }
+  
